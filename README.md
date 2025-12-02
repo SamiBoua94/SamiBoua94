@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Sami 👋
 
-<!--
-**SamiBoua94/SamiBoua94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am a final-year engineering student specializing in **Software and Information Systems**.  
+Over the past three years, I have worked in a **work-study program**, gaining hands-on experience in software development and real-world projects.
 
-Here are some ideas to get you started:
+I am currently looking for my **first full-time position** as a Software Engineer, where I can grow, learn from experienced teams, and contribute to impactful products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I'm Looking For
+- First full-time role as a **Software Engineer** or **Full-Stack Developer**
+- Opportunities to work on web applications, back-end services, or data-driven systems
+- A team where mentoring, clean code, and continuous learning are valued
+
+## 🛠️ Tech Stack
+- **Backend:** Java, Spring Boot
+- **Frontend:** ReactJS, JavaScript
+- **Database:** MySQL
+- **Tools:** Eclipse IDE, Git/GitHub, draw.io
+
+## 🚀 Featured Projects
+- **[Projet-Markethique](https://github.com/SamiBoua94/Projet-Markethique)** - Marketplace platform built with ReactJS and Spring Boot
+- **[Efreroids](https://github.com/SamiBoua94/Efreroids)** - Mini game developed in C
+
+## 🌐 Portfolio
+You can find more details about my projects, experiences, and background on my portfolio:  
+**[👉 Visit my portfolio](https://your-portfolio-link.com)**
+
+## 📫 Let's Connect
+Feel free to reach out to discuss opportunities or collaborations!
+
+---
+
+💡 *Always learning, always building.*
