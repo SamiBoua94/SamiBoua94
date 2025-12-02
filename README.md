@@ -1,6 +1,6 @@
 # Hi there, 👋
 
-## 🎓 About Me
+## 🎓 Who am I ?
 I am a final-year engineering student specializing in **Software and Information Systems**.  
 Over the past three years, I have worked in a **work-study program**, gaining hands-on experience in project management and data analysis in a real-world projects.
 
