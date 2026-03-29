@@ -1,0 +1,5 @@
+{
+  // GitHub Copilot: choose which AI model to use for chat
+  // Available values: "gpt-4o", "gpt-4o-mini", "claude-3.5-sonnet", "o1", "o3-mini"
+  "github.copilot.chat.defaultModel": "gpt-4o"
+}
